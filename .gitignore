@@ -1,7 +1,10 @@
 .*
 !/.gitignore
 Desktop.ini
-Icon[]
+Icon[
+]
 __pycache__/
 *.pyc
+*.csv
+*.npz
 
